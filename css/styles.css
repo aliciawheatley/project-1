@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-size: 18px;
+  background: url('/images/primary-background.jpg');
+  background-size: cover;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+#about {
+  width: 1000px;
+}
